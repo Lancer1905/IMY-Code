@@ -1,0 +1,1 @@
+To run the NodeJS application, first install all packages (npm i) then run it (npm start).

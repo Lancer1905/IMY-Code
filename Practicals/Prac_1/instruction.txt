@@ -1,0 +1,5 @@
+//Pieter Venter u23896257
+//Run these commands
+
+docker build -t u23896257 .
+docker run --name u23896257 -p 3005:3000 u23896257
